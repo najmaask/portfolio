@@ -16,7 +16,7 @@ module.exports = {
         '2xl': '1320px',
       },
       fontFamily: {
-        body: ['Ubuntu', 'serif'],
+        ubuntu: ["'Ubuntu', serif"],
       }
     },
   },

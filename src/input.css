@@ -4,6 +4,10 @@
 @tailwind components;
 @tailwind utilities;
 
+.body {
+    font-family: 'Ubuntu', serif;
+}
+
 .navbar-fixed {
     @apply fixed z-[9999] bg-white bg-opacity-70;
     backdrop-filter: blur(5px);
